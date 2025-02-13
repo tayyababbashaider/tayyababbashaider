@@ -1,5 +1,5 @@
 ## Hey <img src="./Hi.gif" width="29px">
-I'm <a href="https://tayyababbasdev.github.io" target="_blank" title="Tayyab Abbas">Tayyab Abbas</a>, a passionate software engineer, solutions architect. Love solving problems, interacting with the community, sharing knowledge, and learning new things.
+I'm <a href="https://tayyababbashaider.github.io" target="_blank" title="Tayyab Abbas">Tayyab Abbas</a>, a passionate software engineer, solutions architect. Love solving problems, interacting with the community, sharing knowledge, and learning new things.
 
 Experienced in providing custom solutions, skilled with cloud, serverless, AWS's multiple services and OTT, building environments from the scratch up to **production** level.</br>
 
@@ -8,7 +8,7 @@ Experienced in providing custom solutions, skilled with cloud, serverless, AWS's
 const tayyababbas = {
   😄 pronouns: brogrammer,
   📫 reach: `tayyababbaxi661@gmail.com`,
-  💬 skype: `tayyababbasdev`,
+  💬 skype: `tayyababbashaider`,
   ⚡ fact: winning != success
 }
 ```
@@ -19,19 +19,19 @@ Before tv2u, developed a voucher <a target="_blank" href="#" >microservice</a> a
 Parallelly, skilled with <a target="_blank" href="#" >cloud</a>, <a target="_blank" href="#" >serverless</a>, multiple <a target="_blank" href="#" >DevOps</a> and <a target="_blank" href="#" >AWS</a> services and building environments from scratch up to the production level.
 I also co-host the multiple <a target="_blank" href="#" >training</a> sessions about software development.
 
-[![Website](https://img.shields.io/badge/-tayyababbasdev.github.io-0078D4?style=flat&logo=Homepage&logoColor=white)](https://tayyababbasdev.github.io/)
-[![Github](https://img.shields.io/badge/-@tayyababbasdev-000?style=flat&logo=Github&logoColor=white)](https://tayyababbasdev.github.io/)
-[![StackOverflow](https://img.shields.io/badge/tayyababbasdev-%23F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17666468/tayyababbasdev)
+[![Website](https://img.shields.io/badge/-tayyababbashaider.github.io-0078D4?style=flat&logo=Homepage&logoColor=white)](https://tayyababbashaider.github.io/)
+[![Github](https://img.shields.io/badge/-@tayyababbashaider-000?style=flat&logo=Github&logoColor=white)](https://tayyababbashaider.github.io/)
+[![StackOverflow](https://img.shields.io/badge/tayyababbashaider-%23F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17666468/tayyababbashaider)
 
 ##
 
 ### ☕️ Featured blogs/articles/Speekings
-- 📖 [Software design patterns](https://tayyababbasdev.github.io/)
-- 🚀 [KISS programming](https://tayyababbasdev.github.io/)
-- 💻 [Software development life cycle](https://tayyababbasdev.github.io/)
-- 🌟 [Building applications with serverless architectures](https://tayyababbasdev.github.io/)
-- 👏 [AWS lambda@edge](https://tayyababbasdev.github.io/)
-- 🧠 [Mind map technique](https://tayyababbasdev.github.io/)
+- 📖 [Software design patterns](https://tayyababbashaider.github.io/)
+- 🚀 [KISS programming](https://tayyababbashaider.github.io/)
+- 💻 [Software development life cycle](https://tayyababbashaider.github.io/)
+- 🌟 [Building applications with serverless architectures](https://tayyababbashaider.github.io/)
+- 👏 [AWS lambda@edge](https://tayyababbashaider.github.io/)
+- 🧠 [Mind map technique](https://tayyababbashaider.github.io/)
 
 ##
 
@@ -86,24 +86,24 @@ I mostly work with **JavaScript**, **PHP** specifically **Laravel**, **React** w
 Let's code, connect, and create awesome things together!
 
 [![Gmail](https://img.shields.io/badge/-tayyababbaxi661@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tayyababbaxi661@gmail.com)
-[![Skype](https://img.shields.io/static/v1.svg?label=Skype&message=tayyababbasdev&style=flat&color=blue)](https://join.skype.com/invite/wfHtrH7tedlg)
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=tayyababbasdev&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/tayyababbasdev/)
-[![Twitter](https://img.shields.io/badge/-tayyababbasdev-000?style=flat&logo=X&logoColor=white)](https://x.com/tayyababbasdev)
-[![Youtube](https://img.shields.io/badge/-@tayyababbasdev-c14438?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@tayyababbasdev)
-[![Website](https://img.shields.io/badge/-tayyababbasdev.github.io-0078D4?style=flat&logo=Homepage&logoColor=white)](https://tayyababbasdev.github.io/)
+[![Skype](https://img.shields.io/static/v1.svg?label=Skype&message=tayyababbashaider&style=flat&color=blue)](https://join.skype.com/invite/wfHtrH7tedlg)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=tayyababbashaider&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/tayyababbashaider/)
+[![Twitter](https://img.shields.io/badge/-tayyababbashaider-000?style=flat&logo=X&logoColor=white)](https://x.com/tayyababbashaider)
+[![Youtube](https://img.shields.io/badge/-@tayyababbashaider-c14438?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@tayyababbashaider)
+[![Website](https://img.shields.io/badge/-tayyababbashaider.github.io-0078D4?style=flat&logo=Homepage&logoColor=white)](https://tayyababbashaider.github.io/)
 
 ##
 
 ### 🍿 fun fact
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=tayyababbasdev&countColor=%232ccce4&style=flat&labelStyle=upper)
-[![LeetCode user tayyababbasdev](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftayyababbasdev&logo=leetcode&logoColor=yellow)](https://leetcode.com/tayyababbasdev/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=tayyababbashaider&countColor=%232ccce4&style=flat&labelStyle=upper)
+[![LeetCode user tayyababbashaider](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftayyababbashaider&logo=leetcode&logoColor=yellow)](https://leetcode.com/tayyababbashaider/)
 ![open source love](https://img.shields.io/badge/Open%20Source-♥️-43853D)
 ![me quot](https://img.shields.io/badge/❝❞%20winning%20!=%20success-2496ED?style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tayyababbasdev&theme=flat&margin-w=5&margin-h=5&no-bg=true&no-frame=true)](https://tayyababbasdev.github.io)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tayyababbashaider&theme=flat&margin-w=5&margin-h=5&no-bg=true&no-frame=true)](https://tayyababbashaider.github.io)
 
-[comment]: [![](https://ossrank.com/widget/873034)](https://ossrank.com/c/873034-tayyababbasdev)
+[comment]: [![](https://ossrank.com/widget/873034)](https://ossrank.com/c/873034-tayyababbashaider)
 
 ##
 
@@ -119,9 +119,9 @@ Advance thanks for visiting, supporting, and welcome awesome feedback :))
 
 <table>
   <tr>
-    <td>😊&nbsp;<a href="https://www.google.com/search?q=tayyababbasdev+github">Learn more about me!</a></td>
-    <td>🌐&nbsp;<a href="https://tayyababbasdev.github.io/">My portfolio</a></td>
+    <td>😊&nbsp;<a href="https://www.google.com/search?q=tayyababbashaider+github">Learn more about me!</a></td>
+    <td>🌐&nbsp;<a href="https://tayyababbashaider.github.io/">My portfolio</a></td>
   </tr>
 </table>
 
-💡 _free to copy, remember to give [support](https://ko-fi.com/P5P018ZSIU) and proper credit by linking back to github.com/tayyababbasdev_
+💡 _free to copy, remember to give [support](https://ko-fi.com/P5P018ZSIU) and proper credit by linking back to github.com/tayyababbashaider_
